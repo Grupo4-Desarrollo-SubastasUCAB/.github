@@ -151,7 +151,7 @@ Este documento incluye:
 ## 🛠️ Tecnologías
 
 - **Lenguaje principal:** C#
-- **Frameworks:** .NET 8, React, React Native
+- **Frameworks:** .NET 8, React
 - **Backend & Arquitectura:**
   - Arquitectura Hexagonal
   - CQRS + Mediator

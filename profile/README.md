@@ -1,4 +1,9 @@
 <h1 align="center">📚 Subasta UCAB</h1>
+
+<p align="center">
+  <img src="/public/Logo.png" alt="Logo Subasta UCAB" width="200"/>
+</p>
+
 <p align="center"><i>Aplicación de subastas en tiempo real basada en microservicios con arquitectura moderna y funcionalidades avanzadas de interacción.</i></p>
 
 ---
@@ -70,7 +75,7 @@ Está construida sobre una arquitectura moderna de microservicios, con procesami
 
 #### 🔄 Control de estados
 - Gestión de estados con **MassTransit** y **Sagas**
-- Estados: Pending, Active, Ended, Completed, Canceled
+- Estados: Pending, Active, Ended, Completed, Canceled and Deserted
 - Transiciones por eventos asincrónicos
 
 ---
@@ -79,8 +84,8 @@ Está construida sobre una arquitectura moderna de microservicios, con procesami
 
 | Foto | Nombre | Rol | GitHub | LinkedIn |
 |------|--------|-----|--------|----------|
-| <img src="https://github.com/Alex-Altuve.png" width="80" height="80"> | **Alex Altuve** | Backend Developer | [@Alex‑Altuve](https://github.com/Alex-Altuve) | [🔗](https://www.linkedin.com/in/alex‑altuve/) |
-| <img src="https://github.com/ZamudiaJr.png" width="80" height="80"> | **Samuel Ponce** | Backend Developer | [@ZamudiaJr](https://github.com/ZamudiaJr) | [🔗](https://www.linkedin.com/in/samuel‑ponce/) |
+| <img src="https://github.com/Alex-Altuve.png" width="80" height="80"> | **Alex Altuve** | Backend Developer | [@Alex‑Altuve](https://github.com/Alex-Altuve) | [🔗](https://www.linkedin.com/in/alex-altuve-delgado-b1a212288/) |
+| <img src="https://github.com/ZamudiaJr.png" width="80" height="80"> | **Samuel Ponce** | Backend Developer | [@ZamudiaJr](https://github.com/ZamudiaJr) | [🔗](https://www.linkedin.com/in/samuel-ponce-3a35002b0/) |
 | <img src="https://github.com/edvilllalobos.png" width="80" height="80"> | **Erick Villalobos** | Frontend Developer | [@edvilllalobos](https://github.com/edvilllalobos) | [🔗](https://www.linkedin.com/in/erick‑villalobos/) |
 
 ---
@@ -89,7 +94,7 @@ Está construida sobre una arquitectura moderna de microservicios, con procesami
 
 > Representación visual de las entidades del sistema y sus relaciones.
 
-![Modelo de dominio](./docs/modelo-dominio.png)
+![Modelo de dominio](/public/ModeloDominio.jpg)
 
 ---
 
@@ -97,7 +102,7 @@ Está construida sobre una arquitectura moderna de microservicios, con procesami
 
 > Estructura de alto nivel del sistema: cómo se conectan los módulos y componentes principales.
 
-![Diagrama de componentes](./docs/diagrama-componentes.png)
+![Diagrama de componentes](/public/DiagramadeComponentes.jpeg)
 
 ---
 

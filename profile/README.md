@@ -1,7 +1,7 @@
 <h1 align="center">📚 Subasta UCAB</h1>
 
 <p align="center">
-  <img src="/public/Logo.png" alt="Logo Subasta UCAB" width="200"/>
+  <img src="public/Logo.png" alt="Logo Subasta UCAB" width="200"/>
 </p>
 
 <p align="center"><i>Aplicación de subastas en tiempo real basada en microservicios con arquitectura moderna y funcionalidades avanzadas de interacción.</i></p>
@@ -94,7 +94,7 @@ Está construida sobre una arquitectura moderna de microservicios, con procesami
 
 > Representación visual de las entidades del sistema y sus relaciones.
 
-![Modelo de dominio](/public/ModeloDominio.jpg)
+![Modelo de dominio](public/ModeloDominio.jpg)
 
 ---
 
@@ -102,7 +102,7 @@ Está construida sobre una arquitectura moderna de microservicios, con procesami
 
 > Estructura de alto nivel del sistema: cómo se conectan los módulos y componentes principales.
 
-![Diagrama de componentes](/public/DiagramadeComponentes.jpeg)
+![Diagrama de componentes](public/DiagramadeComponentes.jpeg)
 
 ---
 

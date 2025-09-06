@@ -92,7 +92,7 @@ Está construida sobre una arquitectura moderna de microservicios, con procesami
 
 ## 🧠 Modelo de dominio
 
-> Representación visual de las entidades del sistema y sus relaciones.
+> Representación conceptual del área de negocio (Subastas y Pujas)
 
 ![Modelo de dominio](../public/ModeloDominio.jpg)
 

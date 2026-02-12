@@ -162,5 +162,5 @@ Este documento incluye:
 - **Seguridad:** Keycloak (autenticación/autorización)
 - **Almacenamiento de imagenes** Cloudinary
 - **Pasarela de comunicación:** YARP Gateway
-- **Pasarea de Pago:** Stripe
+- **Pasarela de Pago:** Stripe
 - **Otros:** ESLint, Swagger

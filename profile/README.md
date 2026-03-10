@@ -84,7 +84,7 @@ Está construida sobre una arquitectura moderna de microservicios, con procesami
 
 | Foto | Nombre | Rol | GitHub | LinkedIn |
 |------|--------|-----|--------|----------|
-| <img src="https://github.com/Alex-Altuve.png" width="80" height="80"> | **Alex Altuve** | Backend Developer | [@Alex‑Altuve](https://github.com/Alex-Altuve) | [🔗](https://www.linkedin.com/in/alex-altuve-delgado-b1a212288/) |
+| <img src="https://github.com/Alex-Altuve.png" width="80" height="80"> | **Alex Altuve** | Full Satck Developer | [@Alex‑Altuve](https://github.com/Alex-Altuve) | [🔗](https://www.linkedin.com/in/alex-altuve-delgado-b1a212288/) |
 | <img src="https://github.com/ZamudiaJr.png" width="80" height="80"> | **Samuel Ponce** | Backend Developer | [@ZamudiaJr](https://github.com/ZamudiaJr) | [🔗](https://www.linkedin.com/in/samuel-ponce-3a35002b0/) |
 | <img src="https://github.com/edvilllalobos.png" width="80" height="80"> | **Erick Villalobos** | Frontend Developer | [@edvilllalobos](https://github.com/edvilllalobos) | [🔗](https://www.linkedin.com/in/erick‑villalobos/) |
 
